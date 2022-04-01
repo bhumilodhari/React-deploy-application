@@ -50,4 +50,4 @@ $ serve -s build
 ```
 
 ### Live preivew
-#### Open https://user-list-application.netlify.app/ to view it in your browser.
+#### Open https://users-list-application.netlify.app/to view it in your browser.
