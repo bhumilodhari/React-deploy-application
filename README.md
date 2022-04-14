@@ -1,5 +1,8 @@
 # React-Practical-9
   React App Deployment in AWS
+
+### Live preivew
+#### Open http://userlist-prac-9.s3-website-us-west-2.amazonaws.com/
   
 # Before we get started, you need to have:
 
@@ -40,12 +43,7 @@ After create react app clone the sample React App repository S3-Github Actions R
 ## Step 8: Add your workflow accordingly and commit it.
 ![Screenshot from 2022-04-14 16-01-34](https://user-images.githubusercontent.com/97098100/163371077-32dbb286-a9ee-46f1-ba5c-47bc85d588fe.png)
 
-That's it site is live
-
-### Live preivew
-#### Open http://userlist-prac-9.s3-website-us-west-2.amazonaws.com/
-  
-  
+That's it site is live!  
   
 # React-Practical-7
   React App Deployment
