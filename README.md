@@ -96,5 +96,4 @@ $ npm run build:staging
 $ serve -s build
 ```
 
-### Live preivew
-#### Open https://users-list-application.netlify.app/to view it in your browser.
+
